@@ -3,17 +3,15 @@
   contents:
     - name: Full Name
       value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Italian
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Georgia Institute of Technology, USA
+      year: 2023 - Present
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master's Degree in Robotics and Automation Engineering
+      institution: University of Pisa, Italy
+      year: 2015
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor's Degree in Computer Engineering
+      institution: University of Pisa, Italy
+      year: 2012
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +35,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Software Engineer
+      institution: Arm Ltd, Cambridge, UK
+      year: Aug 2018 - Aug 2023
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +45,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Application Support Engineer
+      institution: Mathworks Ltd, Cambridge, UK
+      year: May 2017 - Aug 2018
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Software Engineer
+      institution: SCISYS GmbH (now CGI), Bochum, Germany.
+      year: Mar 2016 - Apr 2017
 
 - title: Open Source Projects
   type: time_table
