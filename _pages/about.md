@@ -19,6 +19,6 @@ profile:
 #social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first-year PhD student in the [HPArch Lab](https://sites.gatech.edu/hparch/), supervised by Prof. [Hyesoon Kim](https://www.cc.gatech.edu/people/hyesoon-kim). My main research interest lies at the interesection of computer architecture, compilers and GPUs.
+Hi! I am a first-year PhD student in the [HPArch Lab](https://sites.gatech.edu/hparch/), supervised by Prof. [Hyesoon Kim](https://www.cc.gatech.edu/people/hyesoon-kim). My research interests lie at the interesection of computer architecture, compilers and GPUs.
 
-Before starting my PhD, I have previously worked at Arm, building GPU functional models for Arm Mali GPUs.
+Before starting my PhD, I have worked at Arm as a software engineer in the Fast Models team, building GPU functional models of Mali GPUs.
