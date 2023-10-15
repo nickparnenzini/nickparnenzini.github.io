@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KACB 2220</p>
-    <p>Klaus Building</p>
+    <p>Klaus Computing Building</p>
     <p>Atlanta, GA, 30332</p>
 
 #news: true  # includes a list of news items
