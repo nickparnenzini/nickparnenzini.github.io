@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nicholas Parnenzini",
+    "label": "PhD Student in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nparnenzini3 <at> gatech.edu",
+    "phone": "",
+    "url": "https://nickparnenzini.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "266 Ferst Dr NW",
+      "postalCode": "GA 30332",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "nickparnenzini",
+        "url": "https://linkedin.com/nickparnenzini"
       }
     ]
   },
