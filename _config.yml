@@ -406,7 +406,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - experience
+  - work
   - publications
   - projects
   - volunteer
