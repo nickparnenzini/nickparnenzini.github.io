@@ -29,7 +29,7 @@
       "area": "Computer Architecture",
       "studyType": "PhD",
       "startDate": "2023.08",
-      "endDate": "Present",
+      "endDate": "-",
       "score": ""
     }
   ],
@@ -48,6 +48,14 @@
       "position": "Application Support Engineer",
       "startDate": "2017.05",
       "endDate": "2018.08",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "SCISYS GmbH",
+      "position": "Software Engineer",
+      "startDate": "2016.03",
+      "endDate": "2017.04",
       "highlights": [
       ]
     }
