@@ -9,15 +9,15 @@ author:
   avatar           : "prof_pic.png"
   name             : "Nicholas Parnenzini"
   pronouns         :
-  bio              : "PhD student, HPArch Lab"
+  bio              : "PhD Student, HPArch Lab"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              :
-  email            : "[nparnenzini3 at gatech.edu]"
+  email            : "[nparnenzini3@gatech.edu]"
 
-  googlescholar    : "[https://scholar.google.com/citations?user=XXXX]"
-  orcid            :
-  pubmed           :
+  #googlescholar    : "[https://scholar.google.com/citations?user=XXXX]"
+  #orcid            :
+  #pubmed           :
 
   github           : "nickparnenzini"
 
