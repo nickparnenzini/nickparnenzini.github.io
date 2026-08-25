@@ -13,7 +13,7 @@ During my PhD I have spent three summers at [NVIDIA](https://www.nvidia.com/) wo
 
 Before starting my PhD I worked as a C++/LLVM software engineer at [Arm](https://www.arm.com/) in the Fast Models team, building GPU functional models of Mali GPUs.
 
-If you want to talk about GPU kernels, compilers, LLMs, or the strange joys of PhD life, I'm easy to find: [drop me an email](mailto:nparnenzini3@gatech.edu). Music and coffee also count as valid topics.
+If you want to talk about GPU kernels, compilers, LLMs, or the strange joys of PhD life, I'm easy to find: [drop me an email](mailto:nparnenzini3@gatech.edu). Music and coffee also count as valid topics!
 
 
 
