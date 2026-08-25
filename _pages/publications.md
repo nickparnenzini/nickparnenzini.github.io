@@ -24,7 +24,7 @@ IEEE Computer Architecture Letters (<b>CAL</b>), 2026
 </li>
 
 <li>
-<strong>SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads</strong><br>
+<a href="/files/SparseWeaver.pdf"><strong>SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads</strong><br>
 <i>Shinnung Jeong, Liam Paul Cooper, Ju Min Lee, Heelim Choi, <b>Nicholas Parnenzini</b>, Chihyo Ahn, Yongwoo Lee, Hanjun Kim, Hyesoon Kim.</i><br>
 IEEE International Symposium on High-Performance Computer Architecture (<b>HPCA</b>), 2025
 </li>
