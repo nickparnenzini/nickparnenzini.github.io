@@ -26,7 +26,6 @@ redirect_from:
 ## Industry Experience
 
 * **Intern**, NVIDIA - Deep Learning Performance Architecture [May-Aug 2026]
-  * Deep Learning Performance Architecture team
   * Performance analysis of the Gated DeltaNet (linear attention) inference kernel used in Qwen3.5 on Blackwell GPUs: warp-level timeline and critical-path dissection, low-batch occupancy analysis
   * Produced software and hardware co-design recommendations for future GPU architectures based on the kernel's scaling bottlenecks
 * **Intern**, NVIDIA - Deep Learning Performance Architecture [May-Aug 2025]
