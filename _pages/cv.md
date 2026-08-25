@@ -40,7 +40,7 @@ redirect_from:
   * Built proof-of-concept demos (MATLAB, ROS/Gazebo) with application engineers to show product value to prospective customers
   * Contributed to internal feature development in C++ and MATLAB; supported customers on MATLAB/Simulink issues
 * **Software Engineer**, SCISYS GmbH (now CGI), Bochum, Germany [Mar 2016–Apr 2017]
-  * Nine-month placement at Thales Alenia Space, Toulouse, as Software Verification Engineer on GACF, a component of the Galileo Ground Mission Segment - analysis and detection of software bugs
+  * Nine-month placement at Thales Alenia Space, Toulouse, as Software Verification Engineer on GACF, a component of the Galileo Ground Mission Segment - analysis and detection of software anomalies
 
 ## Publications
 
