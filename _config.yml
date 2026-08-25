@@ -25,15 +25,6 @@ author:
   linkedin         : "[your-linkedin-handle]"
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  conferences:
-    title: 'Conference Papers'
-  manuscripts:
-    title: 'Journal Articles'
-  workshops:
-    title: 'Workshop Papers'
-  preprints:
-    title: 'Preprints & Under Submission'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
